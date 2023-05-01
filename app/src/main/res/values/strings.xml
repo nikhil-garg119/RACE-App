@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RACE</string>
+    <string name="formlink">To fill form <a href = "https://forms.gle/Y4q4hgTWSKszQLoK9">Click Here!</a></string>
+</resources>
